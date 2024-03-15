@@ -1,10 +1,16 @@
 
 ![githubTitle](https://github.com/kimkangwook/kimkangwook/assets/103418569/012d0b06-6e87-418c-89e1-21967fae8ccb)
 
-![kimkangwook's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimkangwook&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimkangwook&layout=compact)
-<a href="https://hits.seeyoufarm.com"><a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkimkangwook&count_bg=%233DC8BF&title_bg=%23CD6CBA&icon=&icon_color=%23E7E7E7&title=visitors&edge_flat=false"/></a>
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=kimkangwook&show_icons=true&theme=radical" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimkangwook&layout=compact" width="335"/>
+</div>
 
+<div align="center">
+  <a href="https://hits.seeyoufarm.com">
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkimkangwook&count_bg=%233DC8BF&title_bg=%23CD6CBA&icon=&icon_color=%23E7E7E7&title=visitors&edge_flat=false"/>
+  </a>
+</div>
 
 
 ## 💻 DEV's log 💻
