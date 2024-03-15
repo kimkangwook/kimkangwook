@@ -12,6 +12,8 @@
   </a>
 </div>
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ktf1686)](https://solved.ac/ktf1686/)
+
 
 ## 💻 DEV's log 💻
 <div style="display:flex; flex-direction:row;">
